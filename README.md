@@ -1,2 +1,3 @@
-# Analisis Sentimen Trending Topic Twitter terkait Habib Rizieq
-Analisis sentimen ini dilakukan dengan menggunakan 5000 data tweet yang mengandung keyword "habib rizieq".
+# Sentiment Analysis of Habib Rizieq Trending on Twitter
+
+This sentiment analysis was done using 5000 twitter data that contain the keyword of "habib rizieq".
